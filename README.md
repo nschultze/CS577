@@ -1,1 +1,1 @@
-This is the repository for CS 577 Deep Learning.
+This is the repository for CS577 Deep Learning.
